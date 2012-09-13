@@ -1,0 +1,17 @@
+{ Ceci est un fichier ressource généré automatiquement par Lazarus }
+
+LazarusResources.Add('TConfQuitter','FORMDATA',[
+  'TPF0'#12'TConfQuitter'#11'ConfQuitter'#4'Left'#3#191#1#6'Height'#3#135#0#3'T'
+  +'op'#3'C'#2#5'Width'#3#186#1#13'ActiveControl'#7#3'Oui'#7'Caption'#6#1'?'#12
+  +'ClientHeight'#3#135#0#11'ClientWidth'#3#186#1#10'LCLVersion'#6#8'0.9.28.2'#0
+  +#6'TLabel'#6'Texte1'#4'Left'#2'h'#6'Height'#2#16#3'Top'#2#16#5'Width'#3#150#0
+  +#7'Caption'#6#29'Le fichier '#195#160' '#195#169't'#195#169' modifi'#195#169
+  +'.'#11'ParentColor'#8#0#0#6'TLabel'#6'Texte2'#4'Left'#2'h'#6'Height'#2#16#3
+  +'Top'#2'('#5'Width'#3#17#1#7'Caption'#6'+Voulez vous enregistrer les modific'
+  +'ations ?'#11'ParentColor'#8#0#0#7'TBitBtn'#3'Oui'#4'Left'#2'('#6'Height'#2
+  +'$'#3'Top'#2'P'#5'Width'#2'`'#7'Caption'#6#3'Oui'#8'TabOrder'#2#0#0#0#7'TBit'
+  +'Btn'#3'Non'#4'Left'#3#168#0#6'Height'#2'$'#3'Top'#2'P'#5'Width'#2'`'#7'Capt'
+  +'ion'#6#3'Non'#7'OnClick'#7#8'NonClick'#8'TabOrder'#2#1#0#0#7'TBitBtn'#7'Ann'
+  +'uler'#4'Left'#3'('#1#6'Height'#2'$'#3'Top'#2'P'#5'Width'#2'`'#7'Caption'#6#7
+  +'Annuler'#7'OnClick'#7#12'AnnulerClick'#8'TabOrder'#2#2#0#0#0
+]);

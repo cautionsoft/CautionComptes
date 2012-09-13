@@ -1,0 +1,33 @@
+{ Ceci est un fichier ressource généré automatiquement par Lazarus }
+
+LazarusResources.Add('TPrincipale','FORMDATA',[
+  'TPF0'#11'TPrincipale'#10'Principale'#4'Left'#3#188#5#6'Height'#3#169#2#3'Top'
+  +#2#12#5'Width'#3#139#4#13'ActiveControl'#7#11'FondAccueil'#7'Caption'#6#25'C'
+  +'omptes en Banque v 0.0.1'#12'ClientHeight'#3#144#2#11'ClientWidth'#3#139#4#4
+  +'Menu'#7#11'MenuGeneral'#10'LCLVersion'#6#8'0.9.28.2'#0#8'TToolBar'#9'BarOut'
+  +'ils'#4'Left'#2#0#6'Height'#2#26#3'Top'#2#0#5'Width'#3#139#4#7'Caption'#6#9
+  +'BarOutils'#8'TabOrder'#2#0#0#0#6'TPanel'#11'FondAccueil'#4'Left'#2#0#6'Heig'
+  +'ht'#3'v'#2#3'Top'#2#26#5'Width'#3#139#4#5'Align'#7#8'alClient'#12'ClientHei'
+  +'ght'#3'v'#2#11'ClientWidth'#3#139#4#8'TabOrder'#2#1#0#11'TStringGrid'#6'Gri'
+  +'lle'#4'Left'#3#128#0#6'Height'#3't'#2#3'Top'#2#1#5'Width'#3#10#4#5'Align'#7
+  +#7'alRight'#14'AlternateColor'#7#12'clMoneyGreen'#8'ColCount'#2#9#7'Options'
+  +#11#15'goFixedVertLine'#15'goFixedHorzLine'#10'goVertLine'#10'goHorzLine'#13
+  +'goRangeSelect'#14'goSmoothScroll'#19'goFixedRowNumbering'#0#8'RowCount'#2'2'
+  +#8'TabOrder'#2#0#9'ColWidths'#1#2'A'#2'\'#2'9'#3#146#0#3#231#0#3#134#0#2'l'#2
+  +'['#2'W'#0#5'Cells'#1#2#8#2#1#2#0#6#4'Date'#2#2#2#0#6#9'Validit'#195#169#2#3
+  +#2#0#6#16'Mode de payement'#2#4#2#0#6#7'Magasin'#2#5#2#0#6#9'Categorie'#2#6#2
+  +#0#6#7'Cr'#195#169'dit'#2#7#2#0#6#6'D'#195#169'bit'#2#8#2#0#6#5'Total'#0#0#0
+  +#6'TPanel'#6'Gauche'#4'Left'#2#1#6'Height'#3't'#2#3'Top'#2#1#5'Width'#2#127#5
+  +'Align'#7#8'alClient'#12'ClientHeight'#3't'#2#11'ClientWidth'#2#127#8'TabOrd'
+  +'er'#2#1#0#7'TButton'#7'NEntree'#4'Left'#2#1#6'Height'#2'2'#3'Top'#2#1#5'Wid'
+  +'th'#2'}'#5'Align'#7#5'alTop'#7'Caption'#6#16'Nouvelle entr'#195#169'e'#7'On'
+  +'Click'#7#12'NEntreeClick'#8'TabOrder'#2#0#0#0#7'TButton'#7'SEntree'#4'Left'
+  +#2#255#6'Height'#2'1'#3'Top'#2'5'#5'Width'#2#127#7'Caption'#6#9'Supprimer'#8
+  +'TabOrder'#2#1#0#0#0#0#9'TMainMenu'#11'MenuGeneral'#4'left'#2'8'#3'top'#3#24
+  +#2#0#9'TMenuItem'#7'Fichier'#7'Caption'#6#7'Fichier'#0#9'TMenuItem'#4'Vide'#7
+  +'Caption'#6#1'-'#0#0#9'TMenuItem'#7'Quitter'#7'Caption'#6#8'&Quitter'#4'Hint'
+  +#6#7'Quitter'#7'OnClick'#7#12'QuitterClick'#0#0#0#9'TMenuItem'#7'Comptes'#7
+  +'Caption'#6#7'Comptes'#0#0#9'TMenuItem'#4'Aide'#7'Caption'#6#4'Aide'#0#9'TMe'
+  +'nuItem'#5'Vide2'#7'Caption'#6#1'-'#0#0#9'TMenuItem'#7'APropos'#7'Caption'#6
+  +#8'A propos'#0#0#0#0#0
+]);

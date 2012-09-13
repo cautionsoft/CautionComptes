@@ -1,0 +1,135 @@
+object Principale: TPrincipale
+  Left = 1468
+  Height = 681
+  Top = 12
+  Width = 1163
+  ActiveControl = FondAccueil
+  Caption = 'Comptes en Banque v 0.0.1'
+  ClientHeight = 656
+  ClientWidth = 1163
+  Menu = MenuGeneral
+  LCLVersion = '0.9.28.2'
+  object BarOutils: TToolBar
+    Left = 0
+    Height = 26
+    Top = 0
+    Width = 1163
+    Caption = 'BarOutils'
+    TabOrder = 0
+  end
+  object FondAccueil: TPanel
+    Left = 0
+    Height = 630
+    Top = 26
+    Width = 1163
+    Align = alClient
+    ClientHeight = 630
+    ClientWidth = 1163
+    TabOrder = 1
+    object Grille: TStringGrid
+      Left = 128
+      Height = 628
+      Top = 1
+      Width = 1034
+      Align = alRight
+      AlternateColor = clMoneyGreen
+      ColCount = 9
+      Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goSmoothScroll, goFixedRowNumbering]
+      RowCount = 50
+      TabOrder = 0
+      ColWidths = (
+        65
+        92
+        57
+        146
+        231
+        134
+        108
+        91
+        87
+      )
+      Cells = (
+        8
+        1
+        0
+        'Date'
+        2
+        0
+        'Validité'
+        3
+        0
+        'Mode de payement'
+        4
+        0
+        'Magasin'
+        5
+        0
+        'Categorie'
+        6
+        0
+        'Crédit'
+        7
+        0
+        'Débit'
+        8
+        0
+        'Total'
+      )
+    end
+    object Gauche: TPanel
+      Left = 1
+      Height = 628
+      Top = 1
+      Width = 127
+      Align = alClient
+      ClientHeight = 628
+      ClientWidth = 127
+      TabOrder = 1
+      object NEntree: TButton
+        Left = 1
+        Height = 50
+        Top = 1
+        Width = 125
+        Align = alTop
+        Caption = 'Nouvelle entrée'
+        OnClick = NEntreeClick
+        TabOrder = 0
+      end
+      object SEntree: TButton
+        Left = -1
+        Height = 49
+        Top = 53
+        Width = 127
+        Caption = 'Supprimer'
+        TabOrder = 1
+      end
+    end
+  end
+  object MenuGeneral: TMainMenu
+    left = 56
+    top = 536
+    object Fichier: TMenuItem
+      Caption = 'Fichier'
+      object Vide: TMenuItem
+        Caption = '-'
+      end
+      object Quitter: TMenuItem
+        Caption = '&Quitter'
+        Hint = 'Quitter'
+        OnClick = QuitterClick
+      end
+    end
+    object Comptes: TMenuItem
+      Caption = 'Comptes'
+    end
+    object Aide: TMenuItem
+      Caption = 'Aide'
+      object Vide2: TMenuItem
+        Caption = '-'
+      end
+      object APropos: TMenuItem
+        Caption = 'A propos'
+      end
+    end
+  end
+end

@@ -1,0 +1,53 @@
+object ConfQuitter: TConfQuitter
+  Left = 447
+  Height = 135
+  Top = 579
+  Width = 442
+  ActiveControl = Oui
+  Caption = '?'
+  ClientHeight = 135
+  ClientWidth = 442
+  LCLVersion = '0.9.28.2'
+  object Texte1: TLabel
+    Left = 104
+    Height = 16
+    Top = 16
+    Width = 150
+    Caption = 'Le fichier à été modifié.'
+    ParentColor = False
+  end
+  object Texte2: TLabel
+    Left = 104
+    Height = 16
+    Top = 40
+    Width = 273
+    Caption = 'Voulez vous enregistrer les modifications ?'
+    ParentColor = False
+  end
+  object Oui: TBitBtn
+    Left = 40
+    Height = 36
+    Top = 80
+    Width = 96
+    Caption = 'Oui'
+    TabOrder = 0
+  end
+  object Non: TBitBtn
+    Left = 168
+    Height = 36
+    Top = 80
+    Width = 96
+    Caption = 'Non'
+    OnClick = NonClick
+    TabOrder = 1
+  end
+  object Annuler: TBitBtn
+    Left = 296
+    Height = 36
+    Top = 80
+    Width = 96
+    Caption = 'Annuler'
+    OnClick = AnnulerClick
+    TabOrder = 2
+  end
+end
