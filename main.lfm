@@ -1,7 +1,7 @@
 object Principale: TPrincipale
-  Left = 1468
+  Left = 1465
   Height = 681
-  Top = 12
+  Top = 42
   Width = 1163
   ActiveControl = FondAccueil
   Caption = 'Comptes en Banque v 0.0.1'

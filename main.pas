@@ -64,7 +64,7 @@ end;
 
 procedure TPrincipale.NEntreeClick(Sender: TObject);
 begin
-     Grille.Cells[2,2] := 'fff';
+     Grille.Cells[2,2] := 'f';
 end;
 
 initialization

@@ -1,8 +1,6 @@
-{ Ceci est un fichier ressource généré automatiquement par Lazarus }
-
 LazarusResources.Add('TPrincipale','FORMDATA',[
-  'TPF0'#11'TPrincipale'#10'Principale'#4'Left'#3#188#5#6'Height'#3#169#2#3'Top'
-  +#2#12#5'Width'#3#139#4#13'ActiveControl'#7#11'FondAccueil'#7'Caption'#6#25'C'
+  'TPF0'#11'TPrincipale'#10'Principale'#4'Left'#3#185#5#6'Height'#3#169#2#3'Top'
+  +#2'*'#5'Width'#3#139#4#13'ActiveControl'#7#11'FondAccueil'#7'Caption'#6#25'C'
   +'omptes en Banque v 0.0.1'#12'ClientHeight'#3#144#2#11'ClientWidth'#3#139#4#4
   +'Menu'#7#11'MenuGeneral'#10'LCLVersion'#6#8'0.9.28.2'#0#8'TToolBar'#9'BarOut'
   +'ils'#4'Left'#2#0#6'Height'#2#26#3'Top'#2#0#5'Width'#3#139#4#7'Caption'#6#9

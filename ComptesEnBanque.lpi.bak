@@ -36,7 +36,7 @@
         <UnitName Value="ComptesEnBanque"/>
         <CursorPos X="1" Y="1"/>
         <TopLine Value="1"/>
-        <UsageCount Value="28"/>
+        <UsageCount Value="29"/>
       </Unit0>
       <Unit1>
         <Filename Value="main.pas"/>
@@ -45,9 +45,9 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Main"/>
         <CursorPos X="1" Y="67"/>
-        <TopLine Value="44"/>
+        <TopLine Value="48"/>
         <EditorIndex Value="0"/>
-        <UsageCount Value="28"/>
+        <UsageCount Value="29"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
@@ -58,7 +58,7 @@
         <UnitName Value="Quitter"/>
         <CursorPos X="94" Y="39"/>
         <TopLine Value="21"/>
-        <UsageCount Value="28"/>
+        <UsageCount Value="29"/>
       </Unit2>
       <Unit3>
         <Filename Value="../../../../../usr/share/lazarus/lcl/forms.pp"/>
